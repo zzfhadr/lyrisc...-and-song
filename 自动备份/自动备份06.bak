@@ -1,0 +1,185 @@
+[General]
+SyntaxVersion=2
+BeginHotkey=121
+BeginHotkeyMod=0
+PauseHotkey=0
+PauseHotkeyMod=0
+StopHotkey=123
+StopHotkeyMod=0
+RunOnce=1
+EnableWindow=
+MacroID=bd0ee096-2c98-4bba-b025-678670d58409
+Description=ÑµÁ·³¡
+Enable=1
+AutoRun=0
+[Repeat]
+Type=0
+Number=1
+[SetupUI]
+Type=2
+QUI=
+[Relative]
+SetupOCXFile=
+[Comment]
+
+[Script]
+MoveTo 221,212
+Delay 100
+LeftClick 1
+Delay 450
+MoveTo 592, 239
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+MoveTo 262,242
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 200
+
+MoveTo 592, 163
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+MoveTo 262,161
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+Delay 199
+LeftClick 1
+
+
+Delay 200
+KeyDown "ctrl", 1
+Delay 90
+KeyPress "w", 1
+Delay 90
+KeyPress "w", 1
+Delay 90
+KeyPress "w", 1
+Delay 90
+KeyPress "w", 1
+
+KeyUp "ctrl",1
+Delay 200
+KeyDown "ctrl", 1
+Delay 90
+KeyPress "q", 1
+Delay 90
+KeyPress "q", 1
+Delay 90
+KeyPress "q", 1
+Delay 90
+KeyPress "q", 1
+KeyUp "ctrl", 1
+Delay 200
+KeyDown "ctrl", 1
+Delay 90
+KeyPress "e", 1
+Delay 90
+KeyPress "e", 1
+Delay 90
+KeyPress "e", 1
+Delay 90
+KeyPress "e", 1
+KeyUp "ctrl", 1
+Delay 200
+KeyDown "ctrl", 1
+Delay 90
+KeyPress "r", 7
+Delay 90
+KeyPress "r", 7
+Delay 90
+KeyPress "r", 7
+KeyUp "ctrl", 1
+Delay 200
+KeyDown "ctrl", 1
+Delay 90
+KeyPress 192, 7
+Delay 90
+KeyPress 192, 7
+Delay 90
+KeyPress 192, 7
+KeyUp "ctrl",1
