@@ -1,0 +1,11 @@
+list(0) = 12293  々
+list(1) = 8230   …
+list(2) = 12289  、
+list(3) = 12300  「
+list(4) = 12301  」
+list(5) = 12290   。
+list(6) = 65311  ？
+list(7) = 65281  ！
+list(8) = 12539  ・
+list(9) = 12300 'repeated
+list(10) = 12301 ' repeated
